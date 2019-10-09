@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>eBusiness Bootstrap Template</title>
+  <title>eBusiness Bootstrap Template{{ page.language }}</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -74,7 +74,7 @@
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
                   <li class="active">
-                    <a class="page-scroll" href="#home">Home</a>
+                    <a class="page-scroll" href="#home">{{ site[page.l].info }}</a>
                   </li>
                   <li>
                     <a class="page-scroll" href="#about">About</a>
@@ -102,6 +102,24 @@
                   <li>
                     <a class="page-scroll" href="#contact">Contact</a>
                   </li>
+                  {% if page.l == 'es' %}
+                  <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/index-en.html">
+                    <span class="language-chooser">
+                        <img src="/img/usa.png"/>
+                        {{ site[page.l].view }}
+                    </span>
+                    </a>
+                  </li>
+                  {% else %}
+                  <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="/index-es.html">
+                    <span class="language-chooser">
+                        <img src="/img/mexico.png"/>
+                        {{ site[page.l].view }}
+                    </span>
+                    </a>
+                  {% endif  %}
                 </ul>
               </div>
               <!-- navbar-collapse -->

@@ -41,3 +41,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+es:
+  info: Información
+  view: English
+en:
+  info: Information
+  view: Español
