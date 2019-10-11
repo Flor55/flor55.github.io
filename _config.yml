@@ -43,8 +43,33 @@ plugins:
 #   - vendor/ruby/
 
 es:
-  info: Información
+  home: Inicio
+  about: Acerca de
+  services: Servicios
+  team: Equipo
+  portfolio: Portafolio
+  contact: Contacto
   view: English
+
+  titles:
+    about: Acerca de Twins VR Renovation Inc 
+    services: Servicios
+    team: Equipo
+    portfolio: Portafolio de servicios
+    contact: Contactanos
+
 en:
-  info: Information
+  home: Home
+  about: About
+  services: Services
+  team: Team
+  portfolio: Portfolio
+  contact: Contact
   view: Español
+
+  titles:
+    about: About Twins VR Renovation Inc
+    services: Our Services
+    team: Our special Team
+    portfolio: Portfolio of works
+    contact: Contact Us 

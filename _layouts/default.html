@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>eBusiness Bootstrap Template{{ page.language }}</title>
+  <title>Twins VR Renovation Inc</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -33,6 +33,8 @@
 
   <!-- Responsive Stylesheet File -->
   <link href="/css/responsive.css" rel="stylesheet">
+
+  <link href="/css/custom.css" rel="stylesheet">
 
   <!-- =======================================================
     Theme Name: eBusiness
@@ -65,7 +67,8 @@
 									</button>
                 <!-- Brand -->
                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  <h1><span>twins</span>vrrenovationinc</h1>
+                  <h1 class="main-title"><span>TwinsVR</span>RenovationInc</h1>
+                  <h1 class="secondary-title"><span>TwinsVR</span></h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img href="/img/logo.png" alt="" title=""> -->
 								</a>
@@ -74,26 +77,22 @@
               <div class="collapse navbar-collapse main-menu bs-example-navbar-collapse-1" id="navbar-example">
                 <ul class="nav navbar-nav navbar-right">
                   <li class="active">
-                    <a class="page-scroll" href="#home">{{ site[page.l].info }}</a>
+                    <a class="page-scroll" href="#home">{{ site[page.l].home }}</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll" href="#about">{{ site[page.l].about }}</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#services">Services</a>
+                    <a class="page-scroll" href="#services">{{ site[page.l].services }}</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#team">Team</a>
+                    <a class="page-scroll" href="#team">{{ site[page.l].team }}</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#portfolio">Portfolio</a>
-                  </li>
-
-                  <li>
-                    <a class="page-scroll" href="#blog">Blog</a>
+                    <a class="page-scroll" href="#portfolio">{{ site[page.l].portfolio }}</a>
                   </li>
                   <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
+                    <a class="page-scroll" href="#contact">{{ site[page.l].contact }}</a>
                   </li>
                   {% if page.l == 'es' %}
                   <li class="nav-item">
@@ -129,9 +128,9 @@
   <!-- Start Slider Area -->
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
-      <div id="ensign-nivoslider" class="slides">
-        <img src="/img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
-        <img src="/img/slider/slider2.jpg" alt="" title="#slider-direction-2" />
+      <div id="ensign-nivoslider" class="slides slide-container">
+        <img src="/img/slider/fachada.jpg" alt="" title="#slider-direction-1" />
+        <img src="/img/slider/habitacion6.jpg" alt="" title="#slider-direction-2" />
         <img src="/img/slider/slider3.jpg" alt="" title="#slider-direction-3" />
       </div>
 
@@ -219,7 +218,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>About eBusiness</h2>
+            <h2>{{ site[page.l].titles.about }}</h2>
           </div>
         </div>
       </div>
@@ -229,7 +228,7 @@
           <div class="well-left">
             <div class="single-well">
               <a href="#">
-								  <img src="/img/about/1.jpg" alt="">
+								  <img src="/img/about/habitacion5.jpg" alt="">
 								</a>
             </div>
           </div>
@@ -238,7 +237,7 @@
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="well-middle">
             <div class="single-well">
-              <a href="#">
+              <a href="">
                 <h4 class="sec-head">project Maintenance</h4>
               </a>
               <p>
@@ -800,7 +799,7 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>Our Portfolio</h2>
+            <h2>{{ site[page.l].titles.portfolio }}</h2>
           </div>
         </div>
       </div>
@@ -1239,17 +1238,17 @@
             <div class="form contact-form">
               <div id="sendmessage">Your message has been sent. Thank you!</div>
               <div id="errormessage"></div>
-              <form action="" method="post" role="form" class="contactForm">
+              <form action="https://formspree.io/xjnejpnx" method="post" >
                 <div class="form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="_replyto" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <input type="text" class="form-control" name="_subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
