@@ -48,11 +48,11 @@ es:
   services: Servicios
   team: Equipo
   portfolio: Portafolio
-  contact: Contactenos
+  contact: Contacto
   view: English
 
   titles:
-    about: Acerca de Twins VR Renovation Inc 
+    about: Acerca de Twins VR Renovation Inc. 
     services: Servicios
     team: Equipo
     portfolio: Portafolio de servicios
@@ -61,6 +61,8 @@ es:
   toggle_nav: Toggle navigation
   renovation: RenovationInc
   twinsvr: TwinsVR
+  twins: Twins VR
+  renova: Renovation Inc.
   welcome: BIENVENIDO  
   learn_more: Sobre nosotros
   title1: CONFIABILIDAD
@@ -109,16 +111,16 @@ es:
   position2: Director
   working: Trabajamos con usted
   working1: Superamos las expectativas de nuestros clientes, siempre innovando nuestras tecnicas de construcción.
-  portfolio1 : Service
-  portfolio2 : Service
-  portfolio3 : Service
-  portfolio4 : Service
-  portfolio5 : Service
-  portfolio6 : Service
-  portfolio7 : Service
-  portfolio8 : Service
-  portfolio9 : Service
-  portfolio10 : Service
+  portfolio1 : Muebles y accesorios
+  portfolio2 : Muebles y accesorios
+  portfolio3 : Remodelación de baño completo
+  portfolio4 : Vinilo
+  portfolio5 : Pintura
+  portfolio6 : Vinilo
+  portfolio7 : Remodelación de baño completo
+  portfolio8 : Loseta y alfombra
+  portfolio9 : Muebles y accesorios
+  portfolio10 : Pintura
   testi: Algunas de las empresas con las que hemos trabajado.
   testi1: MARRIOT
   testi2: HYATT
@@ -145,7 +147,7 @@ en:
   view: Español
 
   titles:
-    about: About Twins VR Renovation Inc
+    about: About Twins VR Renovation Inc.
     services: Our Services
     team: Our special Team
     portfolio: Portfolio of works
@@ -154,6 +156,8 @@ en:
   toggle_nav: Toggle navigation
   renovation: RenovationInc
   twinsvr: TwinsVR
+  twins: Twins VR
+  renova: Renovation Inc.
   welcome: WELCOME 
   see_servic: See Services
   learn_more: Learn More
@@ -206,16 +210,16 @@ en:
   working: We work with you
   working1: We exceed the expectations of our customers, always innovating our construction techniques.
   
-  portfolio1 : Service
-  portfolio2 : Service
-  portfolio3 : Service
-  portfolio4 : Service
-  portfolio5 : Service
-  portfolio6 : Service
-  portfolio7 : Service
-  portfolio8 : Service
-  portfolio9 : Service
-  portfolio10 : Service
+  portfolio1 : Furniture and accessories
+  portfolio2 : Furniture and accessories
+  portfolio3 : Complete bathroom remodeling
+  portfolio4 : Vinyl
+  portfolio5 : Paint
+  portfolio6 : Vinyl
+  portfolio7 : Complete bathroom remodeling
+  portfolio8 : Tile and carpet
+  portfolio9 : Furniture and accessories
+  portfolio10 : Paint
   
   testi: Some of the companies we have worked with.
   testi1: MARRIOT

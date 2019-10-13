@@ -69,8 +69,9 @@
                 <!-- Brand -->
                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
                   
-                  <h1 class="main-title"><span>{{ site[page.l].twinsvr }}</span>{{ site[page.l].renovation }}</h1>
-                  <h1 class="secondary-title"><span>{{ site[page.l].twinsvr }}</span></h1>
+                  <h1 class="main-title"><img class="main-logo" src="/img/logo2.png" /><span>{{ site[page.l].twinsvr }}</span>{{ site[page.l].renovation }}</h1>
+                  <h1 class="secondary-title"><img class="main-logo" src="/img/logo2.png" /><span>{{ site[page.l].twinsvr }}</span></h1>
+                  <h1 class="thirdy-title"><img class="main-logo" src="/img/logo2.png" /></h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="/img/logo.png" alt="" title=""> -->
 								</a>
@@ -145,7 +146,7 @@
 
               <div class="slider-content">
                 <!-- layer 1 -->
-                <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
+                <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
                   <h2 class="title1">{{ site[page.l].welcome }}</h2>
                 </div>
                 <!-- layer 2 -->
@@ -153,9 +154,12 @@
                   <h1 class="title2">{{ site[page.l].twins_vr_r }}</h1>
                 </div>
                 <!-- layer 3 -->
-                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                <div class="layer-1-3  wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
                   <a class="ready-btn right-btn page-scroll" href="#services">{{ site[page.l].services }}</a>
                   <a class="ready-btn page-scroll" href="#about">{{ site[page.l].learn_more }}</a>
+                  <div>
+                    <img class="slider-image" src="/img/logo-azul.png" />
+                  </div>
                 </div>
               </div>
             </div>
@@ -170,7 +174,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content text-center">
                 <!-- layer 1 -->
-                <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                <div class="layer-1-1  wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
                   <h2 class="title1">{{ site[page.l].title1 }}</h2>
                 </div>
                 <!-- layer 2 -->
@@ -178,9 +182,12 @@
                   <h1 class="title2">{{ site[page.l].expe }}</h1>
                 </div>
                 <!-- layer 3 -->
-                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                <div class="layer-1-3  wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
                   <a class="ready-btn right-btn page-scroll" href="#services">{{ site[page.l].services }}</a>
                   <a class="ready-btn page-scroll" href="#about">{{ site[page.l].learn_more }}</a>
+                  <div>
+                    <img class="slider-image" src="/img/logo-azul.png" />
+                  </div>
                 </div>
               </div>
             </div>
@@ -195,7 +202,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
-                <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                <div class="layer-1-1  wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
                   <h2 class="title1">{{ site[page.l].title2 }}</h2>
                 </div>
                 <!-- layer 2 -->
@@ -203,9 +210,12 @@
                   <h1 class="title2">{{ site[page.l].stereotype }}</h1>
                 </div>
                 <!-- layer 3 -->
-                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                <div class="layer-1-3  wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
                   <a class="ready-btn right-btn page-scroll" href="#services">{{ site[page.l].services }}</a>
                   <a class="ready-btn page-scroll" href="#about">{{ site[page.l].learn_more }}</a>
+                  <div>
+                    <img class="slider-image" src="/img/logo-azul.png" />
+                  </div>
                 </div>
               </div>
             </div>
@@ -852,119 +862,7 @@
   </div>
   <!-- End Testimonials -->
 
-  <!-- Start Blog Area -->
- <!-- <div id="blog" class="blog-area">
-    <div class="blog-inner area-padding">
-      <div class="blog-overly"></div>
-      <div class="container ">
-        <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
-            <div class="section-headline text-center">
-              <h2>{{ site[page.l].latest_new }}</h2>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          !-- Start Left Blog --
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="single-blog">
-              <div class="single-blog-img">
-                <a href="/blog.html">
-										<img src="/img/blog/1.jpg" alt="">
-									</a>
-              </div>
-              <div class="blog-meta">
-                <span class="comments-type">
-										<i class="fa fa-comment-o"></i>
-										<a href="#">{{ site[page.l].13_comment }}</a>
-									</span>
-                <span class="date-type">
-										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
-									</span>
-              </div>
-              <div class="blog-text">
-                <h4>
-                                        <a href="/blog.html">{{ site[page.l].assumenda_ }}</a>
-									</h4>
-                <p>
-                  {{ site[page.l].lorem_ipsu }} conse adipis elit {{ site[page.l].assumenda_ }} optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit {{ site[page.l].assumenda_ }} optio modi sit explicabo nisi magnam quibusdam.
-                </p>
-              </div>
-              <span>
-									<a href="/blog.html" class="ready-btn">{{ site[page.l].read_more }}</a>
-								</span>
-            </div>
-            !-- Start single blog --
-          </div>
-          !-- End Left Blog--
-          !-- Start Left Blog --
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="single-blog">
-              <div class="single-blog-img">
-                <a href="/blog.html">
-										<img src="/img/blog/2.jpg" alt="">
-									</a>
-              </div>
-              <div class="blog-meta">
-                <span class="comments-type">
-										<i class="fa fa-comment-o"></i>
-										<a href="#">{{ site[page.l].130_commen }}</a>
-									</span>
-                <span class="date-type">
-										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
-									</span>
-              </div>
-              <div class="blog-text">
-                <h4>
-                                        <a href="/blog.html">{{ site[page.l].explicabo_ }}</a>
-									</h4>
-                <p>
-                  {{ site[page.l].lorem_ipsu }} conse adipis elit {{ site[page.l].assumenda_ }} optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit {{ site[page.l].assumenda_ }} optio modi sit explicabo nisi magnam quibusdam.
-                </p>
-              </div>
-              <span>
-									<a href="/blog.html" class="ready-btn">{{ site[page.l].read_more }}</a>
-								</span>
-            </div>
-            !-- Start single blog --
-          </div>
-          !-- End Left Blog-->
-          <!-- Start Right Blog--
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="single-blog">
-              <div class="single-blog-img">
-                <a href="/blog.html">
-										<img src="/img/blog/3.jpg" alt="">
-									</a>
-              </div>
-              <div class="blog-meta">
-                <span class="comments-type">
-										<i class="fa fa-comment-o"></i>
-										<a href="#">{{ site[page.l].10_comment }}</a>
-									</span>
-                <span class="date-type">
-										<i class="fa fa-calendar"></i>2016-03-05 / 09:10:16
-									</span>
-              </div>
-              <div class="blog-text">
-                <h4>
-                   <a href="/blog.html">{{ site[page.l].lorem_ipsu }}</a>
-								</h4>
-                <p>
-                  {{ site[page.l].lorem_ipsu }} conse adipis elit {{ site[page.l].assumenda_ }} optio modi sit explicabo nisi magnam quibusdam.sit amet conse adipis elit {{ site[page.l].assumenda_ }} optio modi sit explicabo nisi magnam quibusdam.
-                </p>
-              </div>
-              <span>
-									<a href="/blog.html" class="ready-btn">{{ site[page.l].read_more }}</a>
-								</span>
-            </div>
-          </div>
-          !-- End Right Blog--
-        </div>
-      </div>
-    </div>
-  </div>-->
-  <!-- End Blog -->
+ 
   <!-- Start Suscrive Area -->
  <!-- <div class="suscribe-area">
     <div class="container">
@@ -1081,7 +979,8 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>{{ site[page.l].twinsvr }}</span>{{ site[page.l].renovation }}</h2>
+                  <div class="text-center"><img src="/img/logo.png"></div>
+                  <h2><span>{{ site[page.l].twins }}</span> {{ site[page.l].renova }}</h2>
                 </div>
 
                <!--<p>{{ site[page.l].sed_ut_per }}</p>
@@ -1113,9 +1012,9 @@
                   {{ site[page.l].lorem_ipsu }}, consectetur adipiscing elit, sed do eiusmod tempor.
                 </p>
                 <div class="footer-contacts">
-                  <p><span>Tel:</span> {{ site[page.l].+123_456_7 }}</p>
-                  <p><span>Email:</span> {{ site[page.l].contact@ex }}</p>
-                  <p><span>Working Hours:</span> {{ site[page.l].9am-5pm }}</p>
+                  <p><span>Tel:</span> {{ site[page.l].phone }}</p>
+                  <p><span>Email:</span> {{ site[page.l].contact }}</p>
+                  <p><span>Working Hours:</span> {{ site[page.l].phone }}</p>
                 </div>
               </div>
             </div>
