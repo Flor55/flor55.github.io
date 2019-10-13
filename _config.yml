@@ -48,7 +48,7 @@ es:
   services: Servicios
   team: Equipo
   portfolio: Portafolio
-  contact: Contacto
+  contact: Contactenos
   view: English
 
   titles:
@@ -78,13 +78,13 @@ es:
     asi como su desempeño y rapidez en produccion, con un sistema de gestion totalmente orientado al cliente, y perfilada
     con unos valores presentes en todas nuestras actuaciones: transparencia, seriedad y compromiso.
   vision1: >
-    En Twins VR Renovation Inc. escapamos del estereotipo de constructura, del discurso estandar y del conformismo
+    En Twins VR Renovation Inc. escapamos del estereotipo de constructora, del discurso estandar y del conformismo
     de ser uno mas en el directorio de empresa. Queremos distinguirnos, salirnos de la fila, ofrecer un valor añadido
     que deje nuestra impronta en los proyectos que ejecutamos, permaneciendo siempre atentos a la nuevas tendencias y
     dispuestos a dar respuesta a las exigencias de nuestros clientes.
   vision2: >
     Afrontamos el día a día con el objetivo de posicionarnos como empresa referente en el sector, de marcar un camino
-    y una metodología de trabajo que nos distingan en el mercado como su constructura de confianza.
+    y una metodología de trabajo que nos distingan en el mercado como su constructora de confianza.
   service1: Paneles de yeso
   service2: Textura de techo y pared
   service3: Vinilo
@@ -94,114 +94,43 @@ es:
   service7: Pisos de madera
   service8: Muebles y accesorios
   service9: Remodelación de baño completo
-  our_servic: Our Services
-  expert_cod: Expert Coder
-  creative_d: Creative Designer
-  wordpress_: Wordpress Developer
-  social_mar: Social Marketer 
-  seo_expart: Seo Expart
-  247_suppo: 24/7 Support
-  web_design: Web Design
-  graphics_d: Graphics Design
-  php_develo: Php Developer
-  java_scrip: Java Script
-  faq_questi: Faq Question
-  project: Project
-  planning: Planning
-  success: Success
-  project: Project
-  planning: Planning
-  success: Success
-  welcome_to: Welcome To Our eBusiness
-  subscribe: Subscribe
-  our_specia: Our special Team
-  jhon_micke: Jhon Mickel
-  seo: Seo
-  andrew_arn: Andrew Arnold
-  web_develo: Web Developer
-  lellien_li: Lellien Linda
-  web_design: Web Design
-  jhon_powel: Jhon Powel
-  seo_expert: Seo Expert
-  working_wi: working with us
-  web_design: Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.
-  contact_us: Contact us
-  all: All
-  developmen: Development
-  design: Design
-  photoshop: Photoshop
-  business_c: Business City
-  web_develo: Web Development
-  blue_sea: Blue Sea
-  photosho: Photosho
-  beautiful_: Beautiful Nature
-  web_design: Web Design
-  creative_t: Creative Team
-  web_design: Web design
-  beautiful_: Beautiful Flower
-  web_develo: Web Development
-  night_hill: Night Hill
-  photoshop: Photoshop
-  pricing_ta: Pricing Table
-  basic: basic
-  online_sys: Online system
-  full_acces: Full access
-  free_apps: Free apps
-  multiple_s: Multiple slider
-  free_domin: Free domin
-  support_un: Support unlimited
-  payment_on: Payment online
-  cash_back: Cash back
-  sign_up_no: sign up now
-  top_sale: top sale
-  standar: standar
-  online_sys: Online system
-  full_acces: Full access
-  free_apps: Free apps
-  multiple_s: Multiple slider
-  free_domin: Free domin
-  support_un: Support unlimited
-  payment_on: Payment online
-  cash_back: Cash back
-  sign_up_no: sign up now
-  premium: premium
-  online_sys: Online system
-  full_acces: Full access
-  free_apps: Free apps
-  multiple_s: Multiple slider
-  free_domin: Free domin
-  support_un: Support unlimited
-  payment_on: Payment online
-  cash_back: Cash back
-  sign_up_no: sign up now
-  boby: Boby
-  jhon: Jhon
-  fleming: Fleming
-  latest_new: Latest News
-  13_comment: 13 comments
-  assumenda_: Assumenda repud eum veniam
-  read_more: Read more
-  130_commen: 130 comments
-  explicabo_: Explicabo magnam quibusdam.
-  read_more: Read more
-  10_comment: 10 comments
-  lorem_ipsu: Lorem ipsum dolor sit amet
-  read_more: Read more
-  welcome_to: Welcome to our eBusiness company
-  get_a_quat: Get A quate
-  contact_us: Contact us
-  monday-fri: Monday-Friday (9am-5pm)
-  web_www_e: "Web: www.example.com"
-  ny_535022,: NY 535022, USA
-  your_messa: Your message has been sent. Thank you!
-  send_messa: Send Message
-  business: Business
-  sed_ut_per: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
-  informatio: information
-  phone: +123 456 789
-  contact@ex: contact@example.com
-  9am-5pm: 9am-5pm
-  instagram: Instagram
+  desc1: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc2: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc3: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc4: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc5: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc6: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc7: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc8: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc9: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  team1: María de los Angeles Arellano Mendoza
+  position1: Propietaria
+  team2: Amando García Rojas
+  position2: Director
+  working: Trabajamos con usted
+  working1: Superamos las expectativas de nuestros clientes, siempre innovando nuestras tecnicas de construcción.
+  portfolio1 : Service
+  portfolio2 : Service
+  portfolio3 : Service
+  portfolio4 : Service
+  portfolio5 : Service
+  portfolio6 : Service
+  portfolio7 : Service
+  portfolio8 : Service
+  portfolio9 : Service
+  portfolio10 : Service
+  testi: Algunas de las empresas con las que hemos trabajado.
+  testi1: MARRIOT
+  testi2: HYATT
+  testi3: W
+  testi4: HILTON
+  call: Llama
+  phone: (240) 547-8456
+  schedule: Lunes-Viernes (9am-5pm)
+  email: twinsvrrenovation@gmail.com
+  location: 2263 VILLA VERANO WAY, APT 302
+  address: KISSIMMEE, FL 34744
+
   ebusiness: eBusiness
   bootstrapm: BootstrapMade
 
@@ -212,14 +141,14 @@ en:
   services: Services
   team: Team
   portfolio: Portfolio
-  contact: Contact
+  contact: Contact Us
   view: Español
 
   titles:
     about: About Twins VR Renovation Inc
     services: Our Services
     team: Our special Team
-    portfolio: Portfolio of worksss
+    portfolio: Portfolio of works
     contact: Contact Us
   twins_vr_r: Twins VR Renovation Inc
   toggle_nav: Toggle navigation
@@ -260,112 +189,47 @@ en:
   service7: Wood floors
   service8: Furniture and accessories
   service9: Complete bathroom remodeling
-  expert_cod: Expert Coder
-  creative_d: Creative Designer
-  wordpress_: Wordpress Developer
-  social_mar: Social Marketer 
-  seo_expart: Seo Expart
-  247_suppo: 24/7 Support
-  web_design: Web Design
-  graphics_d: Graphics Design
-  php_develo: Php Developer
-  java_scrip: Java Script
-  faq_questi: Faq Question
-  project: Project
-  planning: Planning
-  success: Success
-  project: Project
-  planning: Planning
-  success: Success
-  welcome_to: Welcome To Our eBusiness
-  subscribe: Subscribe
-  our_specia: Our special Team
-  jhon_micke: Jhon Mickel
-  seo: Seo
-  andrew_arn: Andrew Arnold
-  web_develo: Web Developer
-  lellien_li: Lellien Linda
-  web_design: Web Design
-  jhon_powel: Jhon Powel
-  seo_expert: Seo Expert
-  working_wi: working with us
-  web_design: Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.
-  contact_us: Contact us
-  all: All
-  developmen: Development
-  design: Design
-  photoshop: Photoshop
-  business_c: Business City
-  web_develo: Web Development
-  blue_sea: Blue Sea
-  photosho: Photosho
-  beautiful_: Beautiful Nature
-  web_design: Web Design
-  creative_t: Creative Team
-  web_design: Web design
-  beautiful_: Beautiful Flower
-  web_develo: Web Development
-  night_hill: Night Hill
-  photoshop: Photoshop
-  pricing_ta: Pricing Table
-  basic: basic
-  online_sys: Online system
-  full_acces: Full access
-  free_apps: Free apps
-  multiple_s: Multiple slider
-  free_domin: Free domin
-  support_un: Support unlimited
-  payment_on: Payment online
-  cash_back: Cash back
-  sign_up_no: sign up now
-  top_sale: top sale
-  standar: standar
-  online_sys: Online system
-  full_acces: Full access
-  free_apps: Free apps
-  multiple_s: Multiple slider
-  free_domin: Free domin
-  support_un: Support unlimited
-  payment_on: Payment online
-  cash_back: Cash back
-  sign_up_no: sign up now
-  premium: premium
-  online_sys: Online system
-  full_acces: Full access
-  free_apps: Free apps
-  multiple_s: Multiple slider
-  free_domin: Free domin
-  support_un: Support unlimited
-  payment_on: Payment online
-  cash_back: Cash back
-  sign_up_no: sign up now
-  boby: Boby
-  jhon: Jhon
-  fleming: Fleming
-  latest_new: Latest News
-  13_comment: 13 comments
-  assumenda_: Assumenda repud eum veniam
-  read_more: Read more
-  130_commen: 130 comments
-  explicabo_: Explicabo magnam quibusdam.
-  read_more: Read more
-  10_comment: 10 comments
-  lorem_ipsu: Lorem ipsum dolor sit amet
-  read_more: Read more
-  welcome_to: Welcome to our eBusiness company
-  get_a_quat: Get A quate
-  contact_us: Contact us
-  monday-fri: Monday-Friday (9am-5pm)
-  web_www_e: "Web: www.example.com"
-  ny_535022,: NY 535022, USA
-  your_messa: Your message has been sent. Thank you!
-  send_messa: Send Message
-  business: Business
-  sed_ut_per: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.
-  informatio: information
-  phone: +123 456 789
-  contact@ex: contact@example.com
-  9am-5pm: 9am-5pm
-  instagram: Instagram
+  desc1: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc2: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc3: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc4: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc5: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc6: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc7: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc8: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  desc9: will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by. 
+  
+  team1: María de los Angeles Arellano Mendoza
+  position1: Owner
+  team2: Amando García Rojas
+  position2: Manager
+  working: We work with you
+  working1: We exceed the expectations of our customers, always innovating our construction techniques.
+  
+  portfolio1 : Service
+  portfolio2 : Service
+  portfolio3 : Service
+  portfolio4 : Service
+  portfolio5 : Service
+  portfolio6 : Service
+  portfolio7 : Service
+  portfolio8 : Service
+  portfolio9 : Service
+  portfolio10 : Service
+  
+  testi: Some of the companies we have worked with.
+  testi1: MARRIOT
+  testi2: HYATT
+  testi3: W
+  testi4: HILTON
+
+  call: Call
+  phone: (240) 547-8456
+  schedule: Monday-Friday (9am-5pm)
+  email: twinsvrrenovation@gmail.com
+  location: 2263 VILLA VERANO WAY, APT 302
+  address: KISSIMMEE, FL 34744
+  send: Send Message
+  
   ebusiness: eBusiness
   bootstrapm: BootstrapMade

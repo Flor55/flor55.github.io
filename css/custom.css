@@ -7,6 +7,14 @@
     display: none;
 }
 
+.testimony {
+    color: #fff;
+  font-size: 30px;
+  line-height: 1.5em;
+  margin: 20px 0;
+  letter-spacing: 1px;
+}
+
 
 
 @media (max-width: 1200px){
