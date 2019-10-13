@@ -45,6 +45,9 @@ img.slider-image {
     position: relative;
     margin: 2em;
 }
+.team-social-icon p {
+    color: white;
+}
 
 /**
 @media (max-width: 991px) {
